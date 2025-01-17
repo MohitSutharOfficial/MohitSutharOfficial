@@ -1,4 +1,4 @@
-<img align="center" alt="Coding" width="400" src="https://octodex.github.com/images/universetocat.png">
+<img align="center" alt="Coding" width="400" src="[https://octodex.github.com/images/universetocat.png](https://private-user-images.githubusercontent.com/74038190/271839856-3b4607a1-1cc6-41f1-926f-892ae880e7a5.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzcxMjE2OTIsIm5iZiI6MTczNzEyMTM5MiwicGF0aCI6Ii83NDAzODE5MC8yNzE4Mzk4NTYtM2I0NjA3YTEtMWNjNi00MWYxLTkyNmYtODkyYWU4ODBlN2E1LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTAxMTclMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwMTE3VDEzNDMxMlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTFmZGRiYThjYTQ3MjMyYTZlNzUzMDkxMGUzNTFiZjU0YzQ3NzZhYTY0ODAzMTY2Y2FjMzhjODcyZjQ2MDQwMWUmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.JGJHtq1xe7UzQmo1IUP_V3K6KKPlGc1zEEzo6kNVyps)">
 <h1 align="center">Hi 👋, I'm Mohit Suthar</h1>
 <h3 align="center">A Full-Stack Developer & DevOps Enthusiast from India</h3>
 
