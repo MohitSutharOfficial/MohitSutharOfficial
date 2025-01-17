@@ -18,7 +18,7 @@
   </a>
 </p>
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Backhand%20Index%20Pointing%20Right%20Medium-Dark%20Skin%20Tone.png" alt="Backhand Index Pointing Right Medium-Dark Skin Tone" width="25" height="25" />
-- 📫 How to reach me: **kingmohitsuthar@gmail.com**
+<h2>- 📫 How to reach me: **kingmohitsuthar@gmail.com**</h2>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
