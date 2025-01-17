@@ -26,7 +26,7 @@
     <img align="center" src="https://user-images.githubusercontent.com/74038190/235294011-b8074c31-9097-4a65-a594-4151b58743a8.gif" alt="officialmsuthar" height="30" width="40" />
   </a>
   <a href="https://linkedin.com/in/mohit-suthar-4136a52a6" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohit-suthar-4136a52a6" height="30" width="40" />
+    <img align="center" src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" alt="mohit-suthar-4136a52a6" height="30" width="40" />
   </a>
   <a href="https://stackoverflow.com/users/27745870/mohit-suthar" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="mohit-suthar" height="30" width="40" />
