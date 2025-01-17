@@ -44,5 +44,23 @@
   <a href="https://nodejs.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
   </a>
+  <h3 align="left">Languages and Tools:</h3>
+<p align="left">
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img src="URL_TO_PYTHON_GIF" alt="python" width="40" height="40"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
+    <img src="URL_TO_HTML_GIF" alt="html" width="40" height="40"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer">
+    <img src="URL_TO_CSS_GIF" alt="css" width="40" height="40"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+    <img src="URL_TO_JAVASCRIPT_GIF" alt="javascript" width="40" height="40"/>
+  </a>
+  <a href="https://www.learn-c.org" target="_blank" rel="noreferrer">
+    <img src="URL_TO_C_GIF" alt="c" width="40" height="40"/>
+  </a>
   <!-- Add more languages and tools as needed -->
+</p> Add more languages and tools as needed -->
 </p>
