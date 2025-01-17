@@ -47,7 +47,7 @@
   <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" target="_blank" rel="noreferrer">
-    <img src="URL_TO_PYTHON_GIF" alt="python" width="40" height="40"/>
+    <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" alt="python" width="40" height="40"/>
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
     <img src="URL_TO_HTML_GIF" alt="html" width="40" height="40"/>
