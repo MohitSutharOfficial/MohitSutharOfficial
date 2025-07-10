@@ -47,7 +47,7 @@ Thanks for stopping by my profile! I'm always excited to connect with fellow dev
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
     <a href="https://skillicons.dev">
-      <img  src="https://skillicons.dev/icons?i=bash,bootstrap,c,css,docker,express,figma,firebase,gcp,git,github,graphql,html,java,js,kubernetes,md,materialui,mongo,mysql,nodejs,postgres,postman,py,react,redux,sqlite,tailwind,ts,vscode,azure,gcp,aws&perline=14" width="100%" height="auto" />
+      <img  src="https://skillicons.dev/icons?i=bash,bootstrap,c,css,docker,express,figma,firebase,gcp,git,github,graphql,html,java,js,kubernetes,md,materialui,mongo,mysql,nodejs,postgres,postman,py,react,redux,sqlite,tailwind,ts,vscode,azure,aws&perline=14" width="100%" height="auto" />
         </a>
 </p>
 
@@ -60,7 +60,7 @@ Thanks for stopping by my profile! I'm always excited to connect with fellow dev
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MohitSutharOfficial&theme=radical&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com/?user=MohitSutharOfficial&theme=radical&hide_border=true" alt="GitHub Streak"/>
 </div>
 
 <br/>
