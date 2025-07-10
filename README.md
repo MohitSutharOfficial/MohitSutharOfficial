@@ -47,7 +47,7 @@ Thanks for stopping by my profile! I'm always excited to connect with fellow dev
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
     <a href="https://skillicons.dev">
-      <img  src="https://skillicons.dev/icons?i=bash,bootstrap,c,css,docker,express,figma,firebase,gcp,git,github,graphql,html,java,js,kubernetes,md,materialui,mongo,mysql,nodejs,postgres,postman,py,react,redux,sqlite,tailwind,ts,vscode,azure,gcp,aws&perline=11" width="100%" height="auto" />
+      <img  src="https://skillicons.dev/icons?i=bash,bootstrap,c,css,docker,express,figma,firebase,gcp,git,github,graphql,html,java,js,kubernetes,md,materialui,mongo,mysql,nodejs,postgres,postman,py,react,redux,sqlite,tailwind,ts,vscode,azure,gcp,aws&perline=13" width="100%" height="auto" />
         </a>
 </p>
 
