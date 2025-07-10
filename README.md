@@ -1,10 +1,10 @@
 
-<div align="center">
+<!-- <div align="center">
   <img width="100%" height="180" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&pause=1000&customColorList=6,11,19&height=200&"/>
-</div>
+</div> -->
 
 
-<p align="center" style="margin-top: -150px;">
+<p align="center" style="margin-top: 0px;">
   <img width="900" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&font-size=900&pause=1000&color=14C6FB&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub+profile!;[Code+Smarter];+[Build+Better];+[Innovate+Faster];" alt="Animated typing text displaying Hi there! I'm Mohit Suthar and Welcome to my GitHub profile in bright cyan blue Fira Code font with typewriter effect animation" />
 </p>
 <h1 align="center">Hi 👋, I'm Mohit Suthar</h1>
