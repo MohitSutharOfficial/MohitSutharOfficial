@@ -1,0 +1,6 @@
+# Example FUNDING.yml file
+github: MohitSutharOfficial  # Your GitHub username for GitHub Sponsors
+patreon: your_patreon_username
+ko_fi: your_kofi_username
+buy_me_a_coffee: your_buymeacoffee_username
+custom: ["https://www.paypal.me/yourusername", "https://your-website.com/donate"]
