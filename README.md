@@ -16,7 +16,7 @@
 Hi! I'm **Mohit Suthar**, a passionate **Software Developer & DevOps Enthusiast with AI Integration** based in India. I love building impactful digital solutions and always strive to learn and grow in the world of technology.
 
 ### 🚀 What I'm Up To:
-- 💻 **Currently working on**: Full-stack web applications and cloud infrastructure projects
+- 💻 **Currently working on**:  [@AlloraAi-CLI](https://github.com/AlloraAi/AlloraCLI) *(🤖 AI-Powered Infrastructure Management)*
 - 🌱 **Always learning**: Kubernetes, Microservices Architecture, and Advanced React patterns
 - 🤝 **Open to collaboration on**: Open source projects, innovative startups, and freelance opportunities
 - 💬 **Ask me about**: React, Node.js, Python, Docker, AWS, and DevOps best practices
