@@ -26,13 +26,9 @@ Hi! I'm **Mohit Suthar**, a passionate **Software Developer & DevOps Enthusiast 
 - 🌍 **Website**: [mohitsuthar.me](https://mohitsuthar.me) *(My personal portfolio)*
 - 📝 **Blog**: [mohitsuthar.me/blog](https://mohitsuthar.me/blog) *(Tech insights & tutorials)*
 - 💼 **Learn Tech**: [mohitsuthar.me/learning](https://mohitsuthar.me/learning) *(learn from my web)*
-
 - 📧 **Email**: [kingmohitsuthar@gmail.com](mailto:kingmohitsuthar@gmail.com)
 
-
-### 🎯 Let's Connect!
-Thanks for stopping by my profile! I'm always excited to connect with fellow developers, discuss new technologies, or collaborate on exciting projects. Feel free to reach out! 🚀
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">🎯 Let's Connect!</h3>
 <p align="left">
   <a href="https://twitter.com/officialmsuthar" target="blank">
     <img align="center" src="https://user-images.githubusercontent.com/74038190/235294011-b8074c31-9097-4a65-a594-4151b58743a8.gif" alt="officialmsuthar" height="70" width="80" />
