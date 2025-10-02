@@ -13,7 +13,7 @@
 
 ## 👨‍💻 About Me
 
-Hi! I'm **Mohit Suthar**, a passionate **Software Developer & DevOps Enthusiast with AI Integration** based in India. I love building impactful digital solutions and always strive to learn and grow in the world of technology.
+Hi! I'm **Mohit Suthar**, a passionate **Software Developer & Ai Ml Enthusiast ** based in India. I love building impactful digital solutions and always strive to learn and grow in the world of technology.
 
 ### 🚀 What I'm Up To:
 - 💻 **Currently working on**:  [@AlloraAi-CLI](https://github.com/AlloraAi/AlloraCLI) *(🤖 AI-Powered Infrastructure Management)*
