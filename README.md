@@ -5,41 +5,50 @@
 
 
 <p align="center" >
-  <img width="900" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&font-size=900&pause=1000&color=14C6FB&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub+profile!;[Code+Smarter];+[Build+Better];+[Innovate+Faster];" alt="Animated typing text displaying Hi there! I'm Mohit Suthar and Welcome to my GitHub profile in bright cyan blue Fira Code font with typewriter effect animation" />
+  <img width="500" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&font-size=900&pause=1000&color=14C6FB&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub+profile!;Hi👋,I'm+Mohit+Suthar;+AI/ML+Software+Engineer;+[Innovate+Faster];" alt="Animated typing text displaying Hi there! I'm Mohit Suthar and Welcome to my GitHub profile in bright cyan blue Fira Code font with typewriter effect animation" />
 </p>
-<h1 align="center">Hi 👋, I'm Mohit Suthar</h1>
-<h3 align="center">Software Developer & Ai/ML Enthusiast from India</h3>
+<!-- <h1 align="center">Hi 👋, I'm Mohit Suthar</h1>
+<h3 align="center">Software Developer & Ai/ML Enthusiast from India</h3> -->
 
+Hi! I'm **Mohit Suthar**, a passionate **Software Developer & Ai Ml Enthusiast** based in India. I love building impactful digital solutions and always strive to learn and grow in the world of technology.
 
-## 👨‍💻 About Me
-
-Hi! I'm **Mohit Suthar**, a passionate **Software Developer & Ai Ml Enthusiast ** based in India. I love building impactful digital solutions and always strive to learn and grow in the world of technology.
-
-### 🚀 What I'm Up To:
+#### 🚀 What I'm Up To:
 - 💻 **Currently working on**:  [@AlloraAi-CLI](https://github.com/AlloraAi/AlloraCLI) *(🤖 AI-Powered Infrastructure Management)*
-- 🌱 **Always learning**: Kubernetes, Microservices Architecture, and Advanced React patterns
+  
+      learning:
+          Language Models    →  transformer internals, attention mechanisms, RLHF, model alignment
+          MLOps             →  distributed training, quantization, vLLM inference, A/B model evaluation
+          AI Products       →  multi-agent orchestration, tool-use patterns, memory systems, AI safety
+          Backend           →  high-throughput APIs, vector databases, streaming pipelines, edge deployment
+  
 - 🤝 **Open to collaboration on**: Open source projects, innovative startups, and freelance opportunities
-- 💬 **Ask me about**: React, Node.js, Python, Docker, AWS, and DevOps best practices
-- ⚡ **Fun fact**: I can debug code faster with coffee than without it! ☕
 
-### 🌐 Find Me Online:
-- 🌍 **Website**: [mohitsuthar.me](https://mohitsuthar.me) *(My personal portfolio)*
-- 📝 **Blog**: [mohitsuthar.me/blog](https://mohitsuthar.me/blog) *(Tech insights & tutorials)*
-- 💼 **Learn Tech**: [mohitsuthar.me/learning](https://mohitsuthar.me/learning) *(learn from my web)*
-- 📧 **Email**: [mohit@mohitsuthar.me](mailto:mohit@mohitsuthar.me)
+#### 🌐 Find Me Online:
+-  **Website**: [mohitsuthar.me](https://mohitsuthar.me) *(My personal portfolio)*
+-  **Blog**: [mohitsuthar.me/blog](https://mohitsuthar.me/blog) *(Tech insights & tutorials)*
+-  **Learn Tech**: [mohitsuthar.me/learning](https://mohitsuthar.me/learning) *(learn from my web)*
+-  **Email**: [mohit@mohitsuthar.me](mailto:mohit@mohitsuthar.me)
 
 <h3 align="left">🎯 Let's Connect!</h3>
-<p align="left">
-  <a href="https://twitter.com/officialmsuthar" target="blank">
-    <img align="center" src="https://user-images.githubusercontent.com/74038190/235294011-b8074c31-9097-4a65-a594-4151b58743a8.gif" alt="officialmsuthar" height="70" width="80" />
-  </a>
-  <a href="https://linkedin.com/in/mohit-suthar-4136a52a6" target="blank">
-    <img align="center" src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" alt="mohit-suthar-4136a52a6" height="70" width="80" />
-  </a>
-  <a href="https://stackoverflow.com/users/27745870/mohit-suthar" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="mohit-suthar" height="70" width="80" />
-  </a>
-</p>
+<table border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <td>
+      <a href="https://twitter.com/officialmsuthar" target="blank">
+        <img src="https://user-images.githubusercontent.com/74038190/235294011-b8074c31-9097-4a65-a594-4151b58743a8.gif" height="50" width="60" />
+      </a>
+    </td>
+    <td>
+      <a href="https://linkedin.com/in/mohit-suthar-4136a52a6" target="blank">
+        <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" height="50" width="60" />
+      </a>
+    </td>
+    <td>
+      <a href="https://stackoverflow.com/users/27745870/mohit-suthar" target="blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" height="30" width="40" />
+      </a>
+    </td>
+  </tr>
+</table>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
     <a href="https://skillicons.dev">
