@@ -37,6 +37,11 @@ Hi! I'm **Mohit Suthar**, a passionate **Software Developer & Ai Ml Enthusiast**
         <img src="https://user-images.githubusercontent.com/74038190/235294011-b8074c31-9097-4a65-a594-4151b58743a8.gif" height="50" width="60" />
       </a>
     </td>
+     <td>
+      <a href="https://mohitsuthar.me" target="blank">
+        <img src="https://github.com/user-attachments/assets/66df70fe-713e-42a1-82ed-ba18ac8d3d00" height="50" width="60" />
+      </a>
+    </td>
     <td>
       <a href="https://linkedin.com/in/mohit-suthar-4136a52a6" target="blank">
         <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" height="50" width="60" />
