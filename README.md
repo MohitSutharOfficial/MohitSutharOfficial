@@ -1,98 +1,91 @@
-
-<!-- <div align="center">
-  <img width="100%" height="180" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&pause=1000&customColorList=6,11,19&height=200&"/>
-</div> -->
-
-
-<p align="center" >
-  <img width="500" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&font-size=900&pause=1000&color=14C6FB&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub+profile!;Hi👋,I'm+Mohit+Suthar;+AI/ML+Software+Engineer;+[Innovate+Faster];" alt="Animated typing text displaying Hi there! I'm Mohit Suthar and Welcome to my GitHub profile in bright cyan blue Fira Code font with typewriter effect animation" />
-</p>
-<!-- <h1 align="center">Hi 👋, I'm Mohit Suthar</h1>
-<h3 align="center">Software Developer & Ai/ML Enthusiast from India</h3> -->
-
-Hi! I'm **Mohit Suthar**, a passionate **Software Developer & Ai Ml Enthusiast** based in India. I love building impactful digital solutions and always strive to learn and grow in the world of technology.
-
-#### 🚀 What I'm Up To:
-- 💻 **Currently working on**:  [@AlloraAi-CLI](https://github.com/AlloraAi/AlloraCLI) *(🤖 AI-Powered Infrastructure Management)*
-  
-      learning:
-          Language Models    →  transformer internals, attention mechanisms, RLHF, model alignment
-          MLOps             →  distributed training, quantization, vLLM inference, A/B model evaluation
-          AI Products       →  multi-agent orchestration, tool-use patterns, memory systems, AI safety
-          Backend           →  high-throughput APIs, vector databases, streaming pipelines, edge deployment
-  
-- 🤝 **Open to collaboration on**: Open source projects, innovative startups, and freelance opportunities
-
-#### 🌐 Find Me Online:
--  **Website**: [mohitsuthar.me](https://mohitsuthar.me) *(My personal portfolio)*
--  **Blog**: [mohitsuthar.me/blog](https://mohitsuthar.me/blog) *(Tech insights & tutorials)*
--  **Learn Tech**: [mohitsuthar.me/learning](https://mohitsuthar.me/learning) *(learn from my web)*
--  **Email**: [mohit@mohitsuthar.me](mailto:mohit@mohitsuthar.me)
-
-<h3 align="left">🎯 Let's Connect!</h3>
-<table border="0" cellpadding="0" cellspacing="0">
-  <tr>
-    <td>
-      <a href="https://twitter.com/officialmsuthar" target="blank">
-        <img src="https://user-images.githubusercontent.com/74038190/235294011-b8074c31-9097-4a65-a594-4151b58743a8.gif" height="50" width="60" />
-      </a>
-    </td>
-     <td>
-      <a href="https://mohitsuthar.me" target="blank">
-        <img src="https://github.com/user-attachments/assets/66df70fe-713e-42a1-82ed-ba18ac8d3d00" height="50" width="60" />
-      </a>
-    </td>
-    <td>
-      <a href="https://linkedin.com/in/mohit-suthar-4136a52a6" target="blank">
-        <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" height="50" width="60" />
-      </a>
-    </td>
-    <td>
-      <a href="https://stackoverflow.com/users/27745870/mohit-suthar" target="blank">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" height="30" width="40" />
-      </a>
-    </td>
-  </tr>
-</table>
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-    <a href="https://skillicons.dev">
-      <img  src="https://skillicons.dev/icons?i=bash,c,css,docker,express,figma,firebase,gcp,git,github,graphql,html,java,js,kubernetes,md,materialui,mongo,mysql,nodejs,postgres,postman,py,react,redux,sqlite,tailwind,ts,vscode,azure,aws&perline=14" width="100%" height="auto" />
-        </a>
+<p align="center">
+  <img width="480" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=14C6FB&center=true&vCenter=true&width=480&lines=Hi+%F0%9F%91%8B%2C+I%27m+Mohit+Suthar;AI+%2F+ML+Software+Engineer;Innovate+Faster+%E2%9A%A1" alt="Typing SVG" />
 </p>
 
-## 📊 GitHub Stats:
-
-<div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=MohitSutharOfficial&show_icons=true&count_private=true&hide_border=true&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" alt="Mohit Suthar github stats" /> 
-  
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohitSutharOfficial&layout=compact&hide_border=true&title_color=ff652f&text_color=ff652f&bg_color=09131B" />
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=MohitSutharOfficial&theme=radical&hide_border=true" alt="GitHub Streak"/>
-</div>
+<p align="center">
+  <a href="https://twitter.com/officialmsuthar"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white"/></a>&nbsp;
+  <a href="https://linkedin.com/in/mohit-suthar-4136a52a6"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>&nbsp;
+  <a href="https://stackoverflow.com/users/27745870/mohit-suthar"><img src="https://img.shields.io/badge/-Stack%20Overflow-F58025?style=flat-square&logo=stackoverflow&logoColor=white"/></a>&nbsp;
+  <a href="mailto:mohit@mohitsuthar.me"><img src="https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>&nbsp;
+  <a href="https://mohitsuthar.me"><img src="https://img.shields.io/badge/-Portfolio-14C6FB?style=flat-square&logo=vercel&logoColor=white"/></a>
+</p>
 
 <br/>
 
-## 📈 Activity Graph:
-<div align="center" >
-  <img  width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=MohitSutharOfficial&bg_color=09131B&color=ff652f&line=FFE400&point=ff652f&area=true&hide_border=true" alt="GitHub Activity Graph"/>
-</div>
+<!-- ── SPLIT LAYOUT ─────────────────────────────────────────────────────────── -->
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+<tr>
 
-<br/>
+<!-- ════════════════ LEFT COLUMN ════════════════ -->
+<td width="50%" valign="top">
 
-## 🏆 GitHub Trophies:
-<div align="center">
-  <img width="80%" src="https://github-profile-trophy.vercel.app/?username=MohitSutharOfficial&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies"/>
-</div>
-<br/>
+### 👤 &nbsp;About Me
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,19&height=100&section=footer"/>
-</div>
+I'm a **Software Developer & AI/ML Engineer** based in India — building impactful digital products at the intersection of modern infrastructure and intelligent systems.
+
+```yaml
+focus:
+  language_models   →  transformer internals, RLHF, alignment
+  mlops             →  distributed training, vLLM, quantization
+  ai_products       →  multi-agent, tool-use, memory systems
+  backend           →  high-throughput APIs, vector DBs, edge
+```
 
 ---
-<div align="center">
-  <b>⭐ Star some repositories if you find them interesting!</b>
-</div>
+
+### 🌐 &nbsp;Find Me Online
+
+| | |
+|---|---|
+| 🔗 **Portfolio** | [mohitsuthar.me](https://mohitsuthar.me) |
+| 📝 **Blog** | [mohitsuthar.me/blog](https://mohitsuthar.me/blog) |
+| 📚 **Learn** | [mohitsuthar.me/learning](https://mohitsuthar.me/learning) |
+| 📬 **Email** | [mohit@mohitsuthar.me](mailto:mohit@mohitsuthar.me) |
+
+---
+
+### 🚀 &nbsp;Currently Building
+
+**[@AlloraAi-CLI](https://github.com/AlloraAi/AlloraCLI)** — AI-Powered Infrastructure Management CLI
+
+> Open to **open source**, **innovative startups**, and **freelance** collabs.
+
+---
+
+### 🛠 &nbsp;Languages & Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=py,js,ts,bash,c,java,react,nodejs,express,graphql,redux,tailwind,docker,kubernetes,gcp,aws,azure,firebase,mongo,postgres,mysql,sqlite,git,vscode&perline=8" /><br/>
+</p>
+
+</td>
+
+<!-- ════════════════ RIGHT COLUMN ════════════════ -->
+<td width="4%"></td>
+<td width="46%" valign="top" align="center">
+
+### 📊 &nbsp;GitHub Stats
+
+<img width="100%" src="https://github-readme-stats.vercel.app/api?username=MohitSutharOfficial&show_icons=true&count_private=true&hide_border=true&title_color=14C6FB&icon_color=FFE400&bg_color=0d1117&text_color=c9d1d9&border_color=0d1117" />
+
+<br/>
+
+<img width="100%" src="https://streak-stats.demolab.com/?user=MohitSutharOfficial&theme=transparent&hide_border=true&stroke=14C6FB&ring=FFE400&fire=ff652f&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=14C6FB&sideLabels=14C6FB&dates=888" />
+
+<br/>
+
+<img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohitSutharOfficial&layout=compact&hide_border=true&title_color=14C6FB&text_color=c9d1d9&bg_color=0d1117" />
+
+<br/>
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=MohitSutharOfficial&bg_color=0d1117&color=14C6FB&line=FFE400&point=ff652f&area=true&hide_border=true" />
+
+</td>
+</tr>
+</table>
+
+---
+
+<p align="center">
+  <sub>⭐ Star repositories you find interesting — it means a lot!</sub>
+</p>
