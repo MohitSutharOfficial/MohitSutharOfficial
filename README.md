@@ -55,7 +55,8 @@ focus:
 ### 🛠 &nbsp;Languages & Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=py,js,ts,bash,c,java,react,nodejs,express,graphql,redux,tailwind,docker,kubernetes,gcp,aws,azure,firebase,mongo,postgres,mysql,sqlite,git,vscode&perline=8" /><br/>
+  <!-- <img src="https://skillicons.dev/icons?i=py,js,ts,bash,c,java,react,nodejs,express,graphql,redux,tailwind,docker,kubernetes,gcp,aws,azure,firebase,mongo,postgres,mysql,sqlite,git,vscode&perline=8" /><br/> -->
+  <img src="https://skillicons.dev/icons?i=py,js,ts,bash,c,java,react,nodejs,express,graphql,redux,tailwind,docker,gcp,aws,azure,firebase,mongo,postgres,mysql,git,vscode,flask,threejs,tensorflow,pytorch,scikitlearn,postman,fastapi,github" alt="Skills" style="margin-right:7px;" />
 </p>
 
 </td>
