@@ -21,16 +21,49 @@
 
 ### 👤 &nbsp;About Me
 
-I'm a **Software Developer & AI/ML Engineer** based in India — building impactful digital products at the intersection of modern infrastructure and intelligent systems.
+I'm a **Ai Engineer** based in India — building impactful digital products at the intersection of modern infrastructure and intelligent systems.
 
 ```yaml
 focus:
-  language_models   →  transformer internals, RLHF, alignment
-  mlops             →  distributed training, vLLM, quantization
-  ai_products       →  multi-agent, tool-use, memory systems
-  backend           →  high-throughput APIs, vector DBs, edge
-```
+ → ML & AI      : Python · scikit-learn · PyTorch · 
+                 NumPy · Pandas · Deep Learning · 
+                 Neural Networks · Generative AI · 
+                 LLMs · Backpropagation · 
+                 Gradient Descent
 
+→ Deployment   : FastAPI · Docker · REST APIs · 
+                 MLflow · joblib · Pydantic · 
+                 Model Deployment · 
+                 Experiment Tracking
+
+→ Data Science : Exploratory Data Analysis · 
+                 Feature Engineering · 
+                 Data Cleaning · Matplotlib · 
+                 Seaborn · Statistical Analysis
+
+→ Cloud        : AWS · GCP · Microsoft Azure AI · 
+                 Azure Cognitive Services · 
+                 Cloud Infrastructure
+
+→ Engineering  : OOP · DSA · Algorithms · 
+                 Big O Analysis · CI/CD · 
+                 DevOps · Git · Linux · 
+                 Modular Code Design
+```
+```yaml
+Certifications earned:
+   → Microsoft Certified: Azure AI Fundamentals
+   → MLOps for Generative AI — Google
+   → Postman API Fundamentals Expert
+```
+```yaml
+Currently:
+   → Contributing to open source via GSSoC'25
+   → Learning Generative AI, RAG, Agentic Ai , LLMs, and production 
+     ML systems in depth
+   → Building projects that go from raw data 
+     to deployed API
+```
 ---
 
 ### 🌐 &nbsp;Find Me Online
