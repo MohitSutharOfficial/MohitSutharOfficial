@@ -1,4 +1,4 @@
-<p align="center">
+<!-- <p align="center">
   <img width="480" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=14C6FB&center=true&vCenter=true&width=480&lines=Hi+%F0%9F%91%8B%2C+I%27m+Mohit+Suthar;AI+%2F+ML+Software+Engineer;Innovate+Faster+%E2%9A%A1" alt="Typing SVG" />
 </p>
 
@@ -10,7 +10,7 @@
   <a href="https://mohitsuthar.me"><img src="https://img.shields.io/badge/-Portfolio-14C6FB?style=flat-square&logo=vercel&logoColor=white"/></a>
 </p>
 
-<br/>
+<br/> -->
 
 <!-- ── SPLIT LAYOUT ─────────────────────────────────────────────────────────── -->
 <table width="100%" border="0" cellspacing="0" cellpadding="0">
