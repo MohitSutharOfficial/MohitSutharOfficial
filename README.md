@@ -78,12 +78,6 @@ Currently:
 
 ---
 -->
-### 🚀 &nbsp;Currently Building
-
-**[@AlloraAi-CLI](https://github.com/AlloraAi/AlloraCLI)** — AI-Powered Infrastructure Management CLI
-
-> Open to **open source**, **innovative startups**, and **freelance** collabs.
-
 ---
 
 ### 🛠 &nbsp;Languages & Tools
@@ -97,7 +91,7 @@ Currently:
 
 <!-- ════════════════ RIGHT COLUMN ════════════════ -->
 <td width="4%"></td>
-<td width=726%" valign="top" align="center">
+<td width=40%" valign="top" align="left">
 <!--
 ###  Learning Notebooks
 Documenting my daily learning journey through structured notebooks and repos.
@@ -113,10 +107,18 @@ I use these repos to track what I learn, practice consistently, and build my AI/
 
 Daily learning, notes, and practice repos where I build my AI/ML foundation in public.
 
-- [Python to ML Engineering](https://github.com/MohitSutharOfficial/Python-to-ML-Engineering)
-- [Repo Name 2](repo-link-here)
+- [Python to ML Engineering](https://github.com/MohitSutharOfficial/Python-to-ML-Engineering) :- Python, DSA, ML engineering foundations <br>
+- [Repo Name 2](repo-link-here) <br>
 - [Repo Name 3](repo-link-here)
 
+---
+###  &nbsp;Currently Building
+
+**[@AlloraAi-CLI](https://github.com/AlloraAi/AlloraCLI)** — AI-Powered Infrastructure Management CLI
+
+> Open to **open source**, **innovative startups**, and **freelance** collabs.
+
+<!--
 ### 📊 &nbsp;GitHub Stats
 
 <img width="100%" src="https://github-readme-stats.vercel.app/api?username=MohitSutharOfficial&show_icons=true&count_private=true&hide_border=true&title_color=14C6FB&icon_color=FFE400&bg_color=0d1117&text_color=c9d1d9&border_color=0d1117" />
@@ -132,13 +134,22 @@ Daily learning, notes, and practice repos where I build my AI/ML foundation in p
 <br/>
 
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=MohitSutharOfficial&bg_color=0d1117&color=14C6FB&line=FFE400&point=ff652f&area=true&hide_border=true" />
+-->
 
 </td>
 </tr>
 </table>
+<!--
+### 📊 &nbsp;GitHub Stats
+-->
+<p align="center">
+  <img width="28%" src="https://streak-stats.demolab.com/?user=MohitSutharOfficial&theme=transparent&hide_border=true&stroke=14C6FB&ring=FFE400&fire=ff652f&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=14C6FB&sideLabels=14C6FB&dates=888" />
+  <img width="48%" src="https://github-readme-activity-graph.vercel.app/graph?username=MohitSutharOfficial&bg_color=0d1117&color=14C6FB&line=FFE400&point=ff652f&area=true&hide_border=true" />
+</p>
 
 ---
 
 <p align="center">
   <sub>⭐ Star repositories you find interesting — it means a lot!</sub>
 </p>
+
