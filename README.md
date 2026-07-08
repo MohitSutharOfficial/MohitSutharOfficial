@@ -64,6 +64,7 @@ Currently:
    → Building projects that go from raw data 
      to deployed API
 ```
+<!--
 ---
 
 ### 🌐 &nbsp;Find Me Online
@@ -76,7 +77,7 @@ Currently:
 | 📬 **Email** | [mohit@mohitsuthar.me](mailto:mohit@mohitsuthar.me) |
 
 ---
-
+-->
 ### 🚀 &nbsp;Currently Building
 
 **[@AlloraAi-CLI](https://github.com/AlloraAi/AlloraCLI)** — AI-Powered Infrastructure Management CLI
