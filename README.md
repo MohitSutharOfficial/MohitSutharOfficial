@@ -98,6 +98,20 @@ Currently:
 <!-- ════════════════ RIGHT COLUMN ════════════════ -->
 <td width="4%"></td>
 <td width="46%" valign="top" align="center">
+  
+###  Learning Notebooks
+
+Documenting my daily learning journey through structured notebooks and repos.
+
+| Repository | Focus |
+|-----------|-------|
+| [Python to ML Engineering](https://github.com/MohitSutharOfficial/Python-to-ML-Engineering) | Python, DSA, ML engineering foundations |
+| [Repo Name 2](repo-link-here) | Daily practice / topic focus |
+| [Repo Name 3](repo-link-here) | Notes, experiments, and projects |
+
+I use these repos to track what I learn, practice consistently, and build my AI/ML foundation in public.
+
+
 
 ### 📊 &nbsp;GitHub Stats
 
