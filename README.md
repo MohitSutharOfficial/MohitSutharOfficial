@@ -103,7 +103,7 @@ Documenting my daily learning journey through structured notebooks and repos.
 I use these repos to track what I learn, practice consistently, and build my AI/ML foundation in public.
 -->
   
-### &nbsp;Learning Notebooks
+### &nbsp;My Learning Notebooks
 
 Daily learning, notes, and practice repos where I build my AI/ML foundation in public.
 
